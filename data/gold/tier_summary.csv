@@ -1,0 +1,4 @@
+risk_tier,customers,avg_predicted_prob,actual_churn_rate_pct,monthly_revenue,annual_revenue
+high,2075,0.7233,73.16,104630.33,1255563.96
+medium,1302,0.3933,38.4,79821.97,957863.64
+low,6623,0.0908,8.94,576042.44,6912509.28

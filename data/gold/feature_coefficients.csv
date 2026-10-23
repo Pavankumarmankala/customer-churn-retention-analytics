@@ -1,0 +1,9 @@
+feature,model_coefficient_standardized,model_odds_ratio_per_std,true_coefficient_raw
+days_since_last_order,1.1915,3.292,0.04
+tenure_months,-0.5702,0.565,-0.04
+monthly_spend,-0.4663,0.627,-0.008
+engagement_score,-0.4245,0.654,-0.022
+orders_last_90d,-0.3238,0.723,-0.12
+support_tickets,0.3126,1.367,0.3
+failed_payments,0.2803,1.323,0.45
+discount_usage_pct,0.1938,1.214,0.01

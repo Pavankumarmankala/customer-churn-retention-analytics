@@ -1,0 +1,64 @@
+{
+  "customers": 10000,
+  "churned_customers": 2610,
+  "overall_churn_rate_pct": 26.1,
+  "monthly_revenue_total": 760494.74,
+  "test_set_customers": 2000,
+  "test_auc": 0.8901,
+  "accuracy_pct": 84.05,
+  "precision_churn_pct": 74.34,
+  "recall_churn_pct": 59.39,
+  "true_positives": 310,
+  "false_positives": 107,
+  "false_negatives": 212,
+  "true_negatives": 1371,
+  "high_risk_customers": 2075,
+  "medium_risk_customers": 1302,
+  "at_risk_customers_total": 3377,
+  "monthly_revenue_at_risk_high_tier": 104630.33,
+  "annual_revenue_at_risk_high_tier": 1255563.96,
+  "actual_churn_rate_high_tier_pct": 73.16,
+  "segments": {
+    "high_risk_tier": {
+      "customers": 2075,
+      "churn_rate_pct": 73.16,
+      "monthly_revenue": 104630.33
+    },
+    "tickets_3plus": {
+      "customers": 831,
+      "churn_rate_pct": 34.18,
+      "monthly_revenue": 64550.54
+    },
+    "tickets_0": {
+      "customers": 3715,
+      "churn_rate_pct": 22.29,
+      "monthly_revenue": 279767.54
+    },
+    "failed_2plus": {
+      "customers": 462,
+      "churn_rate_pct": 35.06,
+      "monthly_revenue": 36620.78
+    },
+    "failed_0": {
+      "customers": 7076,
+      "churn_rate_pct": 24.17,
+      "monthly_revenue": 534537.32
+    },
+    "dormant_60plus": {
+      "customers": 2957,
+      "churn_rate_pct": 58.3,
+      "monthly_revenue": 183275.45
+    },
+    "tenure_0_6": {
+      "customers": 1233,
+      "churn_rate_pct": 36.5,
+      "monthly_revenue": 94542.45
+    },
+    "tenure_37plus": {
+      "customers": 2453,
+      "churn_rate_pct": 18.63,
+      "monthly_revenue": 184958.91
+    }
+  },
+  "pipeline_runtime_seconds": 0.73
+}
